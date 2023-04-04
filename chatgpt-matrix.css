@@ -1,0 +1,39 @@
+/* Set the body background color to black */
+body {
+  background-color: #000000;
+}
+
+/* Set the font color to green */
+* {
+  color: #00FF00;
+}
+
+/* Set the font family to a monospace font */
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* Add a Matrix-style text shadow to all text */
+* {
+  text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00, 0 0 20px #00FF00, 0 0 25px #00FF00, 0 0 30px #00FF00, 0 0 35px #00FF00;
+}
+
+/* Set the background color of the chat area to black */
+.chat-area {
+  background-color: #000000;
+}
+
+/* Add a green border to the chat area */
+.chat-area {
+  border: 1px solid #00FF00;
+}
+
+/* Set the color of chat messages to green */
+.chat-message {
+  color: #00FF00;
+}
+
+/* Add a Matrix-style text shadow to chat messages */
+.chat-message {
+  text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00, 0 0 20px #00FF00, 0 0 25px #00FF00, 0 0 30px #00FF00, 0 0 35px #00FF00;
+}
